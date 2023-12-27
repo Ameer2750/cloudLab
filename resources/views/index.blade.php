@@ -30,9 +30,10 @@
 
 </head>
 
-<body class="w-100 h-full">
+<body>
+<x-header />
+<x-footer />
 
-    <x-footer />
 </body>
 
 </html>
