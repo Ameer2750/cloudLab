@@ -1,4 +1,4 @@
-<div class="flex flex-col py-10 fixed bottom-0 w-full shadow		">
+<div class="flex flex-col py-10  bottom-0 w-full shadow 		">
     <!-- 1st row list of services  -->
     <div class="flex flex-row gap-10 justify-between mx-14">
         <!-- 3 columns -->
