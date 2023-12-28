@@ -35,7 +35,7 @@
 
 
     <!-- Why Customers Love Doing Business with Us -->
-    <section class="bg-blue-100 py-14 px-10 flex flex-col items-center">
+    <section class="bg-blue-100 py-14 px-10 flex flex-col items-center mt-14">
         <h1 class="text-3xl font-semibold mb-8">Why Customers Love Doing Business with Us</h1>
 
         <div class="flex flex-row flex-wrap gap-4 items-center justify-center">
@@ -78,12 +78,12 @@
 
     <!-- Ready to accelerate -->
     <section class="bg-white py-14 px-14 flex flex-row gap-10 justify-between items-center w-full">
-        <div class="flex flex-col gap-4 w-1/2">
-            <h2 class="text-4xl font-semibold">Ready to Accelerate?</h2>
-            <p class="font-thin text-base leading-6">
-                No matter where you are in your cloud journey, we can help you migrate, modernize, <br>and manage your
+        <div class="flex flex-col gap-6 w-1/2">
+            <h2 class="text-5xl font-semibold">Ready to Accelerate?</h2>
+            <p class="font-thin text-lg leading-6">
+                No matter where you are in your cloud journey, we can help you migrate, modernize, and manage your
                 AWS
-                environment. <br> Let’s accelerate your growth and fast-track your business outcomes.
+                environment. Let’s accelerate your growth and fast-track your business outcomes.
             </p>
         </div>
         <div class="w-1/2">
